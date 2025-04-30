@@ -1,0 +1,76 @@
+.img{
+    display: inline;
+    margin-left: 50%;
+}
+.searchbar{
+    display: inline;
+    margin-left: 60%;
+
+}
+.bar,ul,li{
+    display: inline;
+    margin-left: 5%; 
+    background-color: aqua;
+    padding: 10px;
+    
+}
+.b1{
+    background-color: rgb(235, 244, 60);
+}
+.b2{
+    background-color: yellow;
+}
+.h1:hover{
+    cursor: pointer;
+}
+.hotel{
+    display: inline;
+}
+.box{
+    border-color: aqua;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+}
+.hotels{
+    text-align: center;
+}
+.button{
+    width: 200px;
+    border-style: dotted;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: rgb(59, 205, 51);
+    
+}
+.box1{
+    border-color: aqua;
+    border-width: 4px;
+    border-style: dotted;
+    display:inline-block;
+    width: 450px;
+    height: 200px;
+}
+.rect{
+    background-image: url(bg22.jpeg) ;
+    background-size: contain;
+    background-repeat : cover;
+    width: auto;
+    height: 300px;
+    border-style: solid;
+    border-width: 0.5px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.company{
+    text-align: left;
+}
+.offer{
+    text-align: right;
+}
+   
